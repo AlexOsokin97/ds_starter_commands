@@ -9,7 +9,10 @@
 
 ## Images:
 ![alt text][Image1]
+* Full articale [Here](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
+
+![alt text][Image2]
+* Full articale [Here](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 
 [Image1]: https://github.com/AlexOsokin97/ds_starter_commands/blob/master/Images/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png "Feature_Selection_Methods"
-
-* Full articale [Here](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
+[Image2]: https://github.com/AlexOsokin97/ds_starter_commands/blob/master/Images/Handling_Missing_Data.png
