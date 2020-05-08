@@ -6,6 +6,8 @@
 * ***Also I very recommend his data science youtube channel which you can find [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)***
 
 ## Images:
-![Feature-Selection-Methods][Image1]
+![alt text][Image1]
 
-[Image1]: https://github.com/AlexOsokin97/ds_starter_commands/blob/master/Images/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png
+[Image1]: https://github.com/AlexOsokin97/ds_starter_commands/blob/master/Images/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png "Feature_Selection_Methods"
+
+* Full articale [Here](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
