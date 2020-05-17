@@ -7,6 +7,7 @@
 * EDA Guide: [Here](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
 * Chi-Squared Test for feature selection: [Here](https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223)
 * Site with Data Science articales: [Here](https://towardsdatascience.com/)
+* Hypothesis Testing: [Here](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 
 ## Images:
 ![alt text][Image1]
