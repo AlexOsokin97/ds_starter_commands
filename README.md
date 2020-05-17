@@ -8,6 +8,7 @@
 * Chi-Squared Test for feature selection: [Here](https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223)
 * Site with Data Science articales: [Here](https://towardsdatascience.com/)
 * Hypothesis Testing: [Here](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
+* Normality Testing: [Here](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)
 
 ## Images:
 ![alt text][Image1]
