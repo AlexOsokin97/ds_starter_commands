@@ -9,6 +9,7 @@
 * Site with Data Science articales: [Here](https://towardsdatascience.com/)
 * Hypothesis Testing: [Here](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 * Normality Testing: [Here](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)
+* Loss Function Choice For Deep Learning: [Here](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
 
 ## Images:
 ![alt text][Image1]
