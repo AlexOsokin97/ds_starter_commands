@@ -11,8 +11,10 @@
 * Normality Testing: [Here](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)
 
 ## Neural Network
+* Step by Step Deep Learning Guide: [Here](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * Activation Functions: [Here](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
 * Loss Function Choice For Deep Learning: [Here](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+* Save Your Model: [Here](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 
 ## Images:
 ![alt text][Image1]
